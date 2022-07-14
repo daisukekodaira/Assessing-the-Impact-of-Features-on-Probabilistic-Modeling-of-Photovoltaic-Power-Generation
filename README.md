@@ -12,6 +12,7 @@ Photovoltaic power generation has high variability and uncertainty because it is
 ## About the author
 - [Yamamoto Hiroki]
 - [Daisuke Kodaira](https://scholar.google.com/citations?user=dK5dNcoAAAAJ&hl=en), daisuke.kodaira03 AT gmail.com
+- [Junji Kondoh](https://www.rs.tus.ac.jp/j.kondoh/english.html)
 
 ## Structure of the code
 

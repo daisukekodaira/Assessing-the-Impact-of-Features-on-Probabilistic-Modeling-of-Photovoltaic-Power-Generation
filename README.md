@@ -17,15 +17,15 @@ See Dockerfile and requirements.txt.
 
 ## Structure of the code
 - main.py:  
-   Input   
-      Pseudo_SampleData.csv.  
-   Output
-      1. QRresult.csv # Forecast result based on Quantile Regression  
-      2. LUBEresult.csv # Forecast result based on LUBE  
-      3. featureGainResult.csv # Result of feature gain  
+  Input   
+    Pseudo_SampleData.csv.  
+  Output  
+    1. QRresult.csv # Forecast result based on Quantile Regression  
+    2. LUBEresult.csv # Forecast result based on LUBE  
+    3. featureGainResult.csv # Result of feature gain  
 - plot.py: # under developing  
-    Input     
-    Outpu     
+  Input     
+  Outpu     
     
 ## How to run
 Run main.py with Pseudo_SampleData.csv.

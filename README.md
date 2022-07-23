@@ -7,7 +7,8 @@ Photovoltaic power generation has high variability and uncertainty because it is
 
 
 ## Required packages
-See docker file and requirements.txt.
+Python 3.10
+See Dockerfile and requirements.txt.
 
 ## About the author
 - Hiroki Yamamoto
@@ -15,14 +16,14 @@ See docker file and requirements.txt.
 - [Junji Kondoh](https://www.rs.tus.ac.jp/j.kondoh/english.html)
 
 ## Structure of the code
-- main.py:
-    Input   Pseudo_SampleData.csv. 
-    Output  1. QRresult.csv # Forecast result based on Quantile Regression
-            2. LUBEresult.csv # Forecast result based on LUBE
-            3. featureGainResult.csv # Result of feature gain
-- plot.py: # under developing 
-    Input   
-    Outpu
+- main.py:  
+    Input   Pseudo_SampleData.csv.  
+    Output  1. QRresult.csv # Forecast result based on Quantile Regression  
+            2. LUBEresult.csv # Forecast result based on LUBE  
+            3. featureGainResult.csv # Result of feature gain  
+- plot.py: # under developing  
+    Input     
+    Outpu     
     
 ## How to run
 Run main.py with Pseudo_SampleData.csv.
